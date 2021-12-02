@@ -109,7 +109,7 @@ textarea:focus {
 
 .search input {
   border: none;
-  background: #efefef;
+  background: rgb(233, 233, 233);
 }
 
 .search input:focus {
